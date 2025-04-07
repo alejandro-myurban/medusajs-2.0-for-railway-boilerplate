@@ -23,7 +23,8 @@
 </h4>
 
 <h2 align="center">
-  <a href="https://railway.app/template/gkU-27?referralCode=-Yg50p">one-click deploy on railway!</a>
+ <a href="https://railway.app/new/template?template=https://github.com/alejandro-myurban/medusajs-2.0-for-railway-boilerplate">one-click deploy on railway!</a>
+
 </h2>
 
 <h1 align="center">
